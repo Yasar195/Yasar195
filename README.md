@@ -11,15 +11,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasar195&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yasar195&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasar195&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Yasar195&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 ---
@@ -27,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasar195&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasar195&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="50%" />
 </p>
 
 ---
@@ -40,19 +33,27 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-## 📊 My GitHub Metrics
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img alt="My GitHub Metrics" src="https://raw.githubusercontent.com/Yasar195/Yasar195/main/github-metrics.svg" />
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/Yasar195/Yasar195/main/github-metrics.svg" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [Yasar Arafath](https://www.linkedin.com/in/yasararafathdev/)
-- 🐦 Twitter: [@Yasararafathdev](https://x.com/Yasararafathdev)
-- 📧 Email: imyasar07@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasararafathdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yasar%20Arafath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Yasararafathdev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@Yasararafathdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:imyasar07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-imyasar07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
