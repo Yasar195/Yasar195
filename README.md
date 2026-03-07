@@ -6,8 +6,6 @@ Hi, I'm Yasar Arafath, a passionate self-taught full-stack web developer and fre
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happen through open-source.
 
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/73157279/209431058-9ab8a257-c6ef-4be3-8789-65e8643832cb.gif" width="400" height="420" />
-
 ## 🚀 GitHub Stats
 
 <p align="center">
