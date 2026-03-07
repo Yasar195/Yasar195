@@ -30,8 +30,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasar195&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
 
-<!--START_SECTION:metrics-->
-<!--END_SECTION:metrics-->
+## 📊 My GitHub Metrics
+
+<p align="center">
+  <img alt="My GitHub Metrics" src="https://raw.githubusercontent.com/Yasar195/Yasar195/main/github-metrics.svg" />
+</p>
 
 ## 📫 Connect with Me
 
